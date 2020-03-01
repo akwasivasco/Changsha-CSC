@@ -1,6 +1,6 @@
 ## Welcome to Changsha
 
-You can use the [editor on GitHub](https://github.com/akwasivasco/Changsha-CSC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Changsha, the capital of central China’s Hunan province, is a large city with a history dating to the Zhou dynasty (1046–256 B.C.). Today it’s known for its rare collection of excavated Western Han dynasty tombs, known as the Mawangdui. It’s also associated with Mao Zedong, who studied and lived here before joining the Chinese Communist Party in the 1920s..
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
